@@ -1,1 +1,1 @@
-# sea-land-segmentation-coastline-extraction
+# sea-land segmentation/coastline extraction
